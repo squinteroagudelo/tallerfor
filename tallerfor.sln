@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{C012A040-60AE-49B5-99D2-3739D4762960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divisores", "divisores\divisores.csproj", "{11943363-E55D-47CC-AC8D-C279F30E7638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suma", "suma\suma.csproj", "{1C126645-8449-45CD-827E-9EA1E7D995CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C012A040-60AE-49B5-99D2-3739D4762960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C012A040-60AE-49B5-99D2-3739D4762960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C012A040-60AE-49B5-99D2-3739D4762960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C012A040-60AE-49B5-99D2-3739D4762960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11943363-E55D-47CC-AC8D-C279F30E7638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11943363-E55D-47CC-AC8D-C279F30E7638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11943363-E55D-47CC-AC8D-C279F30E7638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11943363-E55D-47CC-AC8D-C279F30E7638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C126645-8449-45CD-827E-9EA1E7D995CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C126645-8449-45CD-827E-9EA1E7D995CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C126645-8449-45CD-827E-9EA1E7D995CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C126645-8449-45CD-827E-9EA1E7D995CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

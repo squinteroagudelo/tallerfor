@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\bin\Debug\net8.0\suma.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\bin\Debug\net8.0\suma.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\bin\Debug\net8.0\suma.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\bin\Debug\net8.0\suma.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\bin\Debug\net8.0\suma.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\refint\suma.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\suma.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\suma\obj\Debug\net8.0\ref\suma.dll

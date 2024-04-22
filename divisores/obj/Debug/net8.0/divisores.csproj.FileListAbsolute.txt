@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\bin\Debug\net8.0\divisores.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\bin\Debug\net8.0\divisores.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\bin\Debug\net8.0\divisores.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\bin\Debug\net8.0\divisores.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\bin\Debug\net8.0\divisores.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\refint\divisores.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\divisores.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerfor\divisores\obj\Debug\net8.0\ref\divisores.dll
